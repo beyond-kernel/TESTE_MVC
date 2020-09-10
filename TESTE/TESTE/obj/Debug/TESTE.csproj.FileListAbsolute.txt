@@ -1,0 +1,7 @@
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\bin\Debug\TESTE.exe.config
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\bin\Debug\TESTE.exe
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\bin\Debug\TESTE.pdb
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\obj\Debug\TESTE.csprojAssemblyReference.cache
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\obj\Debug\TESTE.csproj.CoreCompileInputs.cache
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\obj\Debug\TESTE.exe
+C:\Users\rafan\Desktop\TESTE\TESTE_MVC\TESTE\TESTE\obj\Debug\TESTE.pdb
